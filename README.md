@@ -1,10 +1,10 @@
 ![gif](https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif)
 
-何以解忧，唯有暴富。💰
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![safakozdemir's github stats](https://github-readme-stats.vercel.app/api?username=safakozdemir&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safakozdemir&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
-Credits: [SuperSupeng](https://github.com/SuperSupeng)
+Credits: [safakozdemir](https://github.com/safakozdemir)
 
 Last Edited on: 07/08/2022
