@@ -1,4 +1,4 @@
-![gif](https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif)
+![gif](https://github.com/safakozdemir/safakozdemir/blob/main/safakgif.gif)
 
 
 
