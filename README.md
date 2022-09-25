@@ -2,7 +2,7 @@
 
 You have finally discovered my Github profile.
 
-Ask me anything <a href="mailto:sfkzdmr07@gmail.com"><b>email</b></a> me
+You can ask me anything on email <a href="mailto:sfkzdmr07@gmail.com"><b>email</b></a>
 
 <i>Happy Coding!</i> 😊
 
