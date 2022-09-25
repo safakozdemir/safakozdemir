@@ -2,6 +2,8 @@
 
 You have finally discovered my Github profile.
 
+Take a look my linkedin <a href="https://www.linkedin.com/in/sfkzdmr07/"><b>here</b></a><br>
+
 You can ask me anything on <a href="mailto:sfkzdmr07@gmail.com"><b>email</b></a>
 
 <i>Happy Coding!</i> 😊
